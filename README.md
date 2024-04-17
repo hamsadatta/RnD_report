@@ -1,4 +1,4 @@
-# RnD_report
+# R&D Report
 R&amp;D report - Evaluation and Comparison of Real-Time Robot Perception Capabilities in a 24/7 Supermarket
 
 Dataset - https://universe.roboflow.com/hamsa-datta/small_groceries
